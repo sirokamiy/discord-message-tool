@@ -1,4 +1,3 @@
-/**
  * Discord メッセージ送信ツール - made sirokami しろかみが作りました
  * 
  * 機能:
